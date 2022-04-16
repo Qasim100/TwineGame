@@ -1,0 +1,33 @@
+
+tw-story{
+background-image:url(https://www.itl.cat/pngfile/big/157-1572191_hd-wallpapers-for-website-background-cool-background-image.jpg);
+background-size:cover;
+}
+
+tw-passage {
+  font-style:italic;
+   text-align: center; 
+   letter-spacing: 1.1px;
+}
+
+tw-passage moneyy{
+	text-align:right;
+}
+tw-passage span{
+color:green;
+
+}
+tw-link{
+color:yellow;
+  border-color: red;
+	/*outline: none;*/
+	outline-color: orange;
+}
+
+tw-sidebar {
+ visibility: hidden
+}
+button:hover{
+border-color:red;
+  background-color:red;
+}
